@@ -1,0 +1,9 @@
+{
+  "name": "MzansiFix",
+  "description": "AI-powered municipal issue reporting tool for South African communities. Identify, classify, and report infrastructure problems with ease.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
